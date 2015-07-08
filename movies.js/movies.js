@@ -22,14 +22,3 @@ for (var i = 0; i < movieArr.length; i++) {
 
 
 
-//function capitalize(str) {
-//   if (!str || typof str !== 'string') {
-//       return "";
-//    }
-//
-//   return str[0].toUpperCase() + str.slice(1);
-//}
-
-//function capitalize(str){
- // return str[0].toUpperCase() + string.slice(1);
-//}
